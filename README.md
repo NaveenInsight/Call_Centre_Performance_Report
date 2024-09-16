@@ -1,8 +1,6 @@
 # Call Center Performance Dashboard
 
-[Link to Interactive dashboard](https://app.powerbi.com/groups/me/reports/e66dae04-f36c-4bb6-b605-3ef688e36ea1/ReportSection?experience=power-bi)
-
-[Link to Presentation](https://youtu.be/9obE_WXKH4U)
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGE5MGRhYjAtZWY3ZC00NGM0LWFmYzctZjI1OTI5MmY2ZWFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 # Overview
